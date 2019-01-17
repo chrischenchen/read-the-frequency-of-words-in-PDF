@@ -6,13 +6,14 @@ read frequceny of word in PDF文件可以读取英文pdf指定页数中的单词
 
 
     >>> pip install PyPDF2
-    >>> pip install re
+    >>> pip install re    
     >>> pip install string    
 
 
 PyPDF2：可以用来提取pdf文件中的信息（在这个项目中）  
-re：正则表达式操作 
+re：正则表达式操作  
 string：可以对字符串进行操作
+
 
 # 使用
 把文件路径替换成你的书的路径
